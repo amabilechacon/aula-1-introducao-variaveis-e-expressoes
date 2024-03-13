@@ -4,7 +4,7 @@
 Dado um número digitado pelo usuário, imprima seu antecessor, seu sucessor, seu dobro e sua raiz quadrada
 
 Exemplo:
-Digite seu número: 5
+Digite seu número: 4
 
 Resposta:
 
