@@ -15,11 +15,8 @@ Digite seu número: 5
 Resposta:
 
 O antecessor do número 5 é 4.
-
 O sucessor do número 4 é 5.
-
 O dobro do número 4 é 8.
-
 A raiz quadrada do número 4 é 2.
 
 #### Exercício 2
@@ -34,5 +31,4 @@ Digite o desconto a ser aplicado (em porcentagem): 50
 
 
 Resposta:
-
 O preço final do produto é 5.25
