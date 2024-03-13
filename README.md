@@ -10,11 +10,11 @@ Vá até o arquivo exercicio_1.py, e exercicio_2.py respectivamente. Lá estão 
 Dado um número digitado pelo usuário, imprima seu antecessor, seu sucessor, seu dobro e sua raiz quadrada
 
 Exemplo:
-Digite seu número: 5
+Digite seu número: 4
 
 Resposta:
 
-O antecessor do número 5 é 4.
+O antecessor do número 4 é 3.
 
 O sucessor do número 4 é 5.
 
